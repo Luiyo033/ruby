@@ -10,3 +10,6 @@ No son compartidos por las dos varibles.
 
 # Maximo comun divisor y minimo comun multiplo.
 Este es un programa que encuentra el maximo comun divisor y el minimo comun multiplo de 2 numeros
+
+# Problemas de fracciones
+Calculadora sencilla de fracciones. Notese que no puede simplificar.
